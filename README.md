@@ -59,5 +59,5 @@ Acknowledgments
 
 Author
 ------
-https://github.com/b1nb4s5h
+[b1nb4s5h](https://github.com/b1nb4s5h)
 
