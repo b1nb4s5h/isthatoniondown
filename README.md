@@ -15,8 +15,8 @@ Features
 
 1. Front End - Single PHP file
    ---------------------------
-  * Requirements
-      (1xDebian for FE, PHP8+, Nginx) 
+  * Requirements Server 1
+      (Linux for FE, PHP8+, Nginx) 
   * Capture url check from user.
   * Store in search history SQLite database
   * Captcha system to prevent abuse
@@ -25,8 +25,8 @@ Features
 
 2. Back End - Single Python script
    -------------------------------
-  * Requirements
-      (1xDebian for BE, Python3, TOR, cURL, toriptables3) 
+  * Requirements Server 2
+      (Linux for BE, Python3, TOR, cURL, toriptables3) 
   * toriptables3 to route all traffic through TOR
   * Py script runs every minute via cron
   * Gets pending urls from API
